@@ -14,8 +14,8 @@ This is an php backend example for jquery nestable plugin.
 
 ## Credits
 
-[jquery nestable plugin](https://github.com/dbushell/Nestable)
-[joshcam's database class](https://github.com/joshcam/PHP-MySQLi-Database-Class)
+- [jquery nestable plugin](https://github.com/dbushell/Nestable)
+- [joshcam's database class](https://github.com/joshcam/PHP-MySQLi-Database-Class)
 
 **Note**
 
